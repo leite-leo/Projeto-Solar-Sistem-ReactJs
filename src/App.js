@@ -8,7 +8,6 @@ class App extends React.Component {
         <p>Sistema Solar</p>
         <Header />
       </main>
-    
     );
   }
 }
