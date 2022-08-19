@@ -1,20 +1,20 @@
 body {
-  margin: 0%;
-  width: 100%;
   background-image: url('../images/background.png');
   color: aliceblue;
+  margin: 0%;
+  width: 100%;
 }
 
 header {
-  margin: 0;
-  width: 100%;
+  align-items: center;
   display: flex;
   justify-content: center;
-  align-items: center;
+  margin: 0;
+  width: 100%;
 }
 
 .header {
+  align-items: center;
   display: flex;
   justify-content: center;
-  align-items: center;
 }

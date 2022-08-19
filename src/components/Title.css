@@ -1,21 +1,21 @@
 div {
   margin-top: 15px;
-  width: 700px;
   text-align: center;
+  width: 700px;
 }
 
 .headline {
+  border: 1px solid white;
+  border-radius: 20%;
+  height: 50px;
   margin-top: 15px;
   padding-top: 20px;
   width: 40%;
-  height: 50px;
-  border: 1px solid white;
-  border-radius: 20% 20% 20% 20%;
 }
 
-.planeta { 
-  width: 100%;
+.planeta {
+  align-items: center;
   display: flex;
   justify-content: center;
-  align-items: center;
+  width: 100%;
 }

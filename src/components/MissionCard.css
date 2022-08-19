@@ -1,16 +1,16 @@
 .missions {
-  display: flex;
-  width: 100%;
-  flex-wrap:wrap;
-  justify-content: center;
   align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
 }
 
 .mission-card {
-  margin: 3px;
   border: 1px solid white;
-  display: flex;
-  width: 350px;
-  flex-direction: column;
   border-radius: 5%;
+  display: flex;
+  flex-direction: column;
+  margin: 3px;
+  width: 350px;
 }

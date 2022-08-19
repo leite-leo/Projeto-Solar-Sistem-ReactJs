@@ -1,14 +1,14 @@
 .solar-system {
-display: flex;
-justify-content: center;
-width: 100%;
+  display: flex;
+  justify-content: center;
+  width: 100%;
 }
 
 .planet-card {
+  align-items: center;
   display: inline;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
 }
 
 .planet-card img {
