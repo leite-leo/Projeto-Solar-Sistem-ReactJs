@@ -1,0 +1,16 @@
+.missions {
+  display: flex;
+  width: 100%;
+  flex-wrap:wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.mission-card {
+  margin: 3px;
+  border: 1px solid white;
+  display: flex;
+  width: 350px;
+  flex-direction: column;
+  border-radius: 5%;
+}

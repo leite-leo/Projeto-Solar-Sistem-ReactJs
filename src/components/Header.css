@@ -1,0 +1,20 @@
+body {
+  margin: 0%;
+  width: 100%;
+  background-image: url('../images/background.png');
+  color: aliceblue;
+}
+
+header {
+  margin: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
